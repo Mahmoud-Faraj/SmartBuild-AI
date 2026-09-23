@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smartbuild-ai"
+version = "0.1.0"
+description = "Explainable building-energy forecasting and operational anomaly detection"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "joblib==1.5.2",
+  "numpy==2.3.3",
+  "pandas==2.3.2",
+  "plotly==6.3.0",
+  "scikit-learn==1.7.2",
+  "streamlit==1.49.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

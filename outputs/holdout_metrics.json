@@ -1,0 +1,16 @@
+{
+  "anomaly_f1": 0.4166666666666667,
+  "anomaly_false_negatives": 12.0,
+  "anomaly_false_positives": 2.0,
+  "anomaly_precision": 0.7142857142857143,
+  "anomaly_recall": 0.29411764705882354,
+  "anomaly_true_negatives": 841.0,
+  "anomaly_true_positives": 5.0,
+  "baseline_mae": 11.160231585923137,
+  "baseline_r2": -3.1510346788901966,
+  "baseline_rmse": 12.67797114129935,
+  "mae": 1.3974132106202288,
+  "mae_improvement_pct": 87.47863608508945,
+  "r2": 0.912920208740221,
+  "rmse": 1.836243484109622
+}
