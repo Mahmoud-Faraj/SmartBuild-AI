@@ -1,9 +1,5 @@
 # SmartBuild AI
 
-https://github.com/Mahmoud-Faraj/smartbuild-ai.git
-
-Update repository URL
-
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB.svg)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/tests-passing-2E7D32.svg)](#quality-checks)
