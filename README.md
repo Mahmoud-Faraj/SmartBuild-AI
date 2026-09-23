@@ -1,5 +1,8 @@
 # SmartBuild AI
 
+https://github.com/YOUR-USERNAME/smartbuild-ai.git
+
+
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776AB.svg)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/tests-passing-2E7D32.svg)](#quality-checks)
 [![License MIT](https://img.shields.io/badge/license-MIT-0A66C2.svg)](LICENSE)
